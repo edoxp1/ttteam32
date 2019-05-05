@@ -169,4 +169,4 @@ client.on("ready", () => {
 
 
 
-client.login(procees.env.BOT_TOKEN.token);
+client.login(process.env.BOT_TOKEN.token);
