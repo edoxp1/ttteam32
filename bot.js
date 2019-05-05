@@ -169,4 +169,4 @@ client.on("ready", () => {
 
 
 
-client.login(ayarlar.token);
+client.login(procees.env.BOT_TOKEN.token);
