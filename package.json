@@ -1,0 +1,27 @@
+{
+  "name": "erdo",
+  "version": "0.0.1",
+  "description": " ",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": " "
+  },
+  "keywords": [],
+  "author": "erdo",
+  "license": "ISC",
+  "dependencies": {
+    "bot.js": "0.0.1",
+    "chalk": "^2.4.2",
+    "chance": "^1.0.18",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "generate-password": "^1.4.1",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.24.0",
+    "opusscript": "0.0.6"
+  }
+}
